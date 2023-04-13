@@ -639,9 +639,9 @@ div.quarto-post a {
   padding-right: 1.5em;
 }
 
-.content-container .listing-pagination {
+/* .content-container .listing-pagination {
   display: none;
-}
+} */
 
 .top-story {
   max-width: 1000px;
